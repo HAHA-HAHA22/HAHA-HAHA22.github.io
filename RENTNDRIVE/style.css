@@ -155,7 +155,7 @@
     max-width: 600px;
     transform: rotate(-45deg);
     animation: car 1s ease forwards;
-    animation-delay: 2;
+    animation-delay: 2s;
  }
  .home .rhombus2 {
     position: absolute;
