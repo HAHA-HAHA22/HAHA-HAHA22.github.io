@@ -78,13 +78,19 @@ body {
 }
 
 .header-image img {
-    width: 440px;
-    height: auto;
+    width: 500px;
+    height: 300px;
     border-radius: 10rem;
 }
 
 .main-content {
-    padding: 30px 50px;
+padding: 30px 50px;
+}
+
+.p1 {
+    background-color: rgb(251, 13, 13);
+    width: 700px;
+    height: 0px;
 }
 
 .intro h2,
