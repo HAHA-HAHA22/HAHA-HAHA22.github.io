@@ -107,7 +107,7 @@ padding: 30px 50px;
 #kontakta p {
     font-size: 1rem;
     line-height: 1.5;
-} */ */
+}  
 
 #filmer {
     margin-top: 40px;
@@ -169,5 +169,62 @@ padding: 30px 50px;
   .film-kort button:hover {
     background-color: #800000;
   }
-  
-  
+
+  #recensioner {
+    margin-top: 50px;
+}
+
+#recensioner h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.recension {
+    background-color: red;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.profilbild {
+    width: 80px;
+    height: 80px;
+    background-color: lightgray;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.text h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    color: white;
+}
+
+.text p {
+    margin: 5px 0;
+    color: white;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 0,5px;
+    text-align: center;
+    margin-top: 50px;
+ }
+ .footer-kolumner {
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    max-width: 1000px;
+ }
+ .kolumn {
+    color: white;
+    text-align: left;
+    padding: 30px;
+ }
