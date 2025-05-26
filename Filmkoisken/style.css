@@ -1,4 +1,4 @@
-/* body {
+* body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -24,13 +24,13 @@
     height: auto;
 }
 
-/* .navbar {
+* .navbar {
     flex: 2;
     display: flex;
     justify-content: center;
-} */
+} *
 
-/* .navbar ul {
+* .navbar ul {
     list-style: none;
     display: flex;
     gap: 30px;
