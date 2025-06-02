@@ -1,4 +1,4 @@
-* body {
+ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -33,13 +33,13 @@ section {
     height: auto;
 }
 
-* .navbar {
+ .navbar {
     flex: 2;
     display: flex;
     justify-content: center;
-} *
+} 
 
-* .navbar ul {
+ .navbar ul {
     list-style: none;
     display: flex;
     gap: 30px;
@@ -93,7 +93,7 @@ section {
 }
 
 .main-content {
-padding: 150px 50px;
+padding: 150px 50px 0 50px;
 }
 
 .p1 {
@@ -219,7 +219,7 @@ padding: 150px 50px;
 .footer {
     background-color: black;
     color: white;
-    padding: 0,5px;
+    padding: 0.5px;
     text-align: center;
     margin-top: 50px;
  }

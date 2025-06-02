@@ -21,8 +21,6 @@ body {
     padding: 30px;
     border-radius: 10px;
     font-size: 24px;
-    font-family: monospace;
-    letter-spacing: 5px;
   }
   
   .ruta button {
@@ -33,6 +31,5 @@ body {
     font-size: 18px;
     margin-top: 20px;
     border-radius: 10px;
-    cursor: pointer;
   }
   
