@@ -97,7 +97,6 @@ padding: 150px 50px 0 50px;
 }
 
 .p1 {
-    background-color: rebeccapurple;
     width: 700px;
     height: 0px;
 }
@@ -200,7 +199,7 @@ padding: 150px 50px 0 50px;
 .profilbild {
     width: 80px;
     height: 80px;
-    background-color: lightgray;
+    background-color: red;
     border-radius: 50%;
     margin-right: 20px;
 }
